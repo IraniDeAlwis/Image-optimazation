@@ -1,1 +1,1 @@
-# Image-optimazation
+# Image-optimization
